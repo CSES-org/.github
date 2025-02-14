@@ -1,13 +1,13 @@
 <div align="center">
 
-<image src="http://m.qpic.cn/psc?/V51UyG6T2hLdbN0oEgHl3fEkH73KqJt7/TmEUgtj9EK6.7V8ajmQrEEsEylM*52lTktZHLze*PTbMCd2wg4o5kkEyKNVsVL9UM5xK4GLClF.TOL*ty*FnqAuxBQmobbAoJ.gYMo62EQY!/mnull&bo=wADAAAAAAAADByI!&rf=photolist&t=5" height="64"/>
+<image src="http://static.smart-teach.cn/logos/full.jpg" height="64"/>
 
-# CSES
+# 智教联盟
 
-The Course Schedule Exchange Schema
+SmartTeachCN
 
 </div>
 
-## Introduction
+## 介绍
 
-CSES is a universal course schedule exchange schema that can be used for exchanging schedules between different software. It is designed to be simple and easy to use, and can be easily converted to other formats such as ClassIsland format.
+智教联盟致力于服务全国电教委，并为教学辅助类应用提供全方面扶持与帮助。
