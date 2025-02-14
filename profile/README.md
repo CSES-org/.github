@@ -1,6 +1,6 @@
 <div align="center">
 
-<image src="http://static.smart-teach.cn/logos/full.jpg" height="64"/>
+<image src="https://static.smart-teach.cn/logos/full.jpg" height="64"/>
 
 # 智教联盟
 
